@@ -6,6 +6,7 @@ from sklearn import svm
 from sklearn import cross_validation
 
 
+
 iris = datasets.load_iris()
 
 svc = svm.SVC()
